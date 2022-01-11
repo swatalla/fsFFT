@@ -12,7 +12,6 @@
     <Compile Include="Signal\SignalFunctions.fs" />
     <Compile Include="Signal\Window.fs" />
     <Compile Include="Signal\FourierTransform.fs" />
-    <Compile Include="Library.fs" />
   </ItemGroup>
 
 </Project>
